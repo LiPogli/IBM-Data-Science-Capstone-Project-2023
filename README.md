@@ -1,5 +1,5 @@
-# testrepo04-2023
+# IBM Data Science Capstone Project
 
-## Editing the file
+## by Lisa Pogarell
 
-It's a markdown file in this repository.
+This repository contains the lab notebooks for the Capstone Project.
